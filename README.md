@@ -2,3 +2,7 @@
 CSV - MYSQL
 
 ## Techologies used
+* bootstrap
+* HTML CSS
+* PHP
+* MYSQL
